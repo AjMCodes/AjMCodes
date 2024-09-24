@@ -18,11 +18,6 @@ Welcome to my GitHub profile! I’m just starting out on my journey in programmi
 - Start learning more about software engineering principles.
 - Explore different areas like web development, data science, and automation.
 
-## ⚡ Fun Facts About Me
-- I enjoy drawing and developing skills in 3D modeling when I’m not coding.
-- I like to dance and occasionally do a spot of breaking.
-- I enjoy problem-solving challenges like puzzles and coding games.
-
 ## 📫 How to Reach Me
 - Check out my Portfolio (Coming soon!)
 - Drop me a message here on GitHub
